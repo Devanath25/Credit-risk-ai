@@ -34,3 +34,6 @@ This project predicts customer delinquency risk using financial data such as inc
 pip install -r requirements.txt
 python src/train.py
 streamlit run app/app.py
+
+## 🖥️ App Preview
+![App Screenshot](app.png)
